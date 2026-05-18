@@ -41,7 +41,9 @@ enemy_filenames = [
     'mobil_musuh2.png', 
     'mobil_musuh3.png', 
     'mobil_musuh4.png', 
-    'mobil_musuh5.png'
+    'mobil_musuh5.png',
+    'mobil_musuh6.png',
+    'mobil_musuh7.png'
 ]
 
 enemy_car_images = []
